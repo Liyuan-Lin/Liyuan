@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liyuan Lin's Webpage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Liyuan Lin"
-description              : &description "Ph.D. student, Department of Statistics and Actuarial Science, University of Waterloo"
-url                      : https://liyuan-lin.github.io & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Your Name"
+description              : &description "personal description"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Liyuan-Lin/test-academic"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Liyuan Lin"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Ph.D. student, Department of Statistics and Actuarial Science, University of Waterloo"
-  location         : "Waterloo, Ontario, Canada"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=LJkk2-wAAAAJ&hl=zh-CN&oi=sra"
-  email            : "l89lin@uwaterloo.ca"
- # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -95,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Liyuan-Lin"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
