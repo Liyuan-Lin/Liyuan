@@ -13,7 +13,7 @@ redirect_from:
 - My reseach interest includes dependence and risk aggregation, risk measure and stochastic control.
 
 ## News
-We are hosting a [weekly seminar on risk management and actuarial science](https://yang-liu16.github.io/seminar/) online weekly. Researchers all over the world interested in quantitative risk management, actuarial science and mathematical finance are welcomed to join us by sending emails to me, [Yang Liu](https://yang-liu16.github.io/), or [Qiuqi Wang](https://qwangan.github.io/).
+We are hosting a [weekly seminar on risk management and actuarial science](https://yang-liu16.github.io/seminar/) online. Researchers all over the world interested in quantitative risk management, actuarial science and mathematical finance are welcomed to join us by sending emails to me, [Yang Liu](https://yang-liu16.github.io/), or [Qiuqi Wang](https://qwangan.github.io/).
 
 ## Contact Me
 
