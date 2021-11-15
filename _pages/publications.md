@@ -1,16 +1,18 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications and Manuscripts"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[1] Chen Y., Lin L.*, Wang R.(2021). Ordered Risk Aggregation under Dependence Uncertainty. http://arxiv.org/abs/2104.07718.
 
-{% include base_path %}
+[2] Liu J.Z., Yan S.Q., Lin L.Y.*(2020). Optimal asset allocation for households with habit formation. In submission. (In Chinese)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[3] Lin L.Y., Liu F.D, Liu J.Z.*, Yu L.Y.(2020). The optimal reinsurance strategy with price-competition between two reinsurers. In submission.
+
+[4] Liu J.Z.*, Lin L.Y., Yiu K.F.C., Wei J.Q.(2020).Non-exponential discounting portfolio management with habit formation. Mathematical control and related field, 10(4):761-783.
+
+[5] Liu J.Z., Lin L.Y., Meng H.*(2020).Optimal Consumption, Life insurance and Investment Decision with Habit formation. Acta Mathematicae Applicatae Sinica, 43(3):517-534.(In Chinese)
+
+[6] Liu J.Z.*, Lin L.Y..(2018).Impact of weather on the pricing of  flight delay insurance. Insurance theory and practice,2018(11):100-110.(In Chinese).
