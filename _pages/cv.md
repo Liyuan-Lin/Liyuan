@@ -11,4 +11,4 @@ redirect_from:
 
 [My Curriculum Vitae [PDF]](https://Liyuan/pdfs/Liyuan_CV.pdf)
 
-<!-- <embed src="http://Liyuan/pdfs/Liyuan_CV.pdf.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://Liyuan/pdfs/Liyuan_CV.pdf" width="650" height="1800" type='application/pdf'> -->
