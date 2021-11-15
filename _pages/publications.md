@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-[1] Chen Y., Lin L.*, Wang R.(2021). Ordered Risk Aggregation under Dependence Uncertainty. http://arxiv.org/abs/2104.07718.
+[1] Chen, Y., Lin, L., and Wang, R. (2021). Risk aggregation under dependence uncertainty and an order constraint. Insurance: Mathematics and Economics, forthcoming. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2104.07718) 
 
-[2] Liu J.Z., Yan S.Q., Lin L.Y.*(2020). Optimal asset allocation for households with habit formation. In submission. (In Chinese)
+[2] Liu J.Z., Yan S.Q., **Lin L.Y.**(2020). Optimal asset allocation for households with habit formation. In submission. (In Chinese)
 
 [3] Lin L.Y., Liu F.D, Liu J.Z.*, Yu L.Y.(2020). The optimal reinsurance strategy with price-competition between two reinsurers. In submission.
 
