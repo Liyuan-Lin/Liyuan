@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-- *Risk aggregation under dependence uncertainty and an order constraint.*, 2nd Waterloo Student Conference in Statistics, Actuarial Science and Finance, Online, Nov 5-6, 2021.
+- *Risk aggregation under dependence uncertainty and an order constraint*, 2nd Waterloo Student Conference in Statistics, Actuarial Science and Finance, Online, Nov 5-6, 2021.
 
 - *On VaR-ES distortion and its application in risk management*, The 7th FINACT-IRAN National Conference on Financial and Actuarial Mathematics, Online, Aug 10-12, 2021.
 
