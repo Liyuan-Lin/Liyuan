@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://qwangan.github.io/images/profile.png" alt="Photo" style="width: 450px;"/> 
+  <img src="https://qwangan.github.io/images/photo_lin.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
 - I am a second-year Ph.D. student in Actuarial Science at the University of Waterloo (UW), supervised by [Prof. Ruodu Wang](https://sas.uwaterloo.ca/~wang/) and [Prof. Alexander Schied](https://uwaterloo.ca/scholar/aschied).
