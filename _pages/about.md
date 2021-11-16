@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -12,6 +12,7 @@ redirect_from:
   <img src="https://liyuan-lin.github.io/Liyuan/images/photo_lin.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
+## About Me
 - I am a second-year Ph.D. student in Actuarial Science at the University of Waterloo (UW), supervised by [Prof. Ruodu Wang](https://sas.uwaterloo.ca/~wang/) and [Prof. Alexander Schied](https://uwaterloo.ca/scholar/aschied).
 - I received my Master degree in Actuarial Science at Central University of Finance and Economics (CUFE), supervised by [Prof. Jingzhen Liu](http://ins.cufe.edu.cn/info/1027/1200.htm).
 - My reseach interest includes dependence and risk aggregation, risk measure and stochastic control.
