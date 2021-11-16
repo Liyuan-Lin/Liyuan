@@ -15,6 +15,6 @@ author_profile: true
 
 - Liu, J., Yan, S. and **Lin, L.** (2020). Optimal asset allocation for households with habit formation. Submitted. (In Chinese).
 
-- Liu, J., **Lin, L.** and Meng, H. (2020). Optimal Consumption, Life insurance and Investment Decision with Habit formation. Acta Mathematicae Applicatae Sinica, 43(3): 517-534. (In Chinese).
+- Liu, J., **Lin, L.** and Meng, H. (2020). Optimal Consumption, Life insurance and Investment Decision with Habit formation. Acta Mathematicae Applicatae Sinica, 43(3): 517-534. (In Chinese).[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/habit.pdf) 
 
-- Liu, J. and **Lin, L.** (2018). Impact of weather on the pricing of flight delay insurance. Insurance Theory and Practice, 2018(11): 100-110. (In Chinese).
+- Liu, J. and **Lin, L.** (2018). Impact of weather on the pricing of flight delay insurance. Insurance Theory and Practice, 2018(11): 100-110. (In Chinese).[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/impact.pdf) 
