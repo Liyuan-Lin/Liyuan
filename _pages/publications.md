@@ -7,7 +7,7 @@ author_profile: true
 
 - Chen, Y., **Lin, L.** and Wang, R. (2021). Risk aggregation under dependence uncertainty and an order constraint. Insurance: Mathematics and Economics, forthcoming. [[<span style="color:green">arXiv</span>]](http://arxiv.org/abs/2104.07718) 
 
-- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2020). The optimal reinsurance strategy with price-competition between two reinsurers. Submitted.
+- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2020). The optimal reinsurance strategy with price-competition between two reinsurers. Submitted.[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/reinsurance-0821.pdf) 
 
 - Yu, L., **Lin, L.**, Guan, G. and Liu, J. (2021). Time-consistent lifetime portfolio selection under smooth ambiguity. Submitted.
 
