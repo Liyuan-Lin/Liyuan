@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 - I am a second-year Ph.D. student in Actuarial Science at the University of Waterloo (UW), supervised by [Prof. Ruodu Wang](https://sas.uwaterloo.ca/~wang/) and [Prof. Alexander Schied](https://uwaterloo.ca/scholar/aschied).
-- I received my Master degree in Actuarial Science at Central University of Finance and Economics (CUFE) supervised by [Prof. Jingzhen Liu](http://ins.cufe.edu.cn/info/1027/1200.htm).
+- I received my Master degree in Actuarial Science at Central University of Finance and Economics (CUFE), supervised by [Prof. Jingzhen Liu](http://ins.cufe.edu.cn/info/1027/1200.htm).
 - My reseach interest includes dependence and risk aggregation, risk measure and stochastic control.
 
 ## News
