@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Yu, L., **Lin, L.**, Guan, G. and Liu, J. (2022). Time-consistent lifetime portfolio selection under smooth ambiguity. Accepted by Mathematical Control and Related Fields.[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/ambiguity.pdf) 
+
 - Chen, Y., **Lin, L.** and Wang, R. (2021). Risk aggregation under dependence uncertainty and an order constraint. Insurance: Mathematics and Economics, 102: 169-187. [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2021.10.006) 
 
 - **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2020). The optimal reinsurance strategy with price-competition between two reinsurers. Submitted.[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/reinsurance-0821.pdf) 
-
-- Yu, L., **Lin, L.**, Guan, G. and Liu, J. (2020). Time-consistent lifetime portfolio selection under smooth ambiguity. Submitted.[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/ambiguity.pdf) 
 
 - Liu, J., **Lin, L.**, Yiu, K.F.C. and Wei J. (2020). Non-exponential discounting portfolio management with habit formation. Mathematical Control and Related Fields, 10(4): 761-783.[[<span style="color:green">Journal</span>]](https://www.aimsciences.org/article/doi/10.3934/mcrf.2020019) 
 
