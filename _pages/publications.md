@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+－ Koike, T., **Lin, L.** and Wang, R. (2022). Joint mixability and negative orthant dependence. *arXiv*:2204.11438.[[<span style="color:green">Journal</span>]](https://arxiv.org/abs/2204.11438) 
+
+
+－ Assa, H., **Lin, L.**　and Wang, R. (2022). Calibrating distribution models from PELVE. *arXiv*:2204.08882.[[<span style="color:green">Journal</span>]](https://arxiv.org/abs/2204.08882) 
+
 - Yu, L., **Lin, L.**, Guan, G. and Liu, J. (2022). Time-consistent lifetime portfolio selection under smooth ambiguity. Accepted by Mathematical Control and Related Fields.[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/ambiguity.pdf) 
 
 - Chen, Y., **Lin, L.** and Wang, R. (2021). Risk aggregation under dependence uncertainty and an order constraint. Insurance: Mathematics and Economics, 102: 169-187. [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2021.10.006) 
