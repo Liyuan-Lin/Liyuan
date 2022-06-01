@@ -4,6 +4,11 @@ title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
+- *Calibrating distribution models from PELVE*, 25th International Congress on Insurance: Mathematics and Economics, Online, July 12-15, 2022.
+
+- *Measuring diversification via risk measures*, 2022 CORS/INFORMS International Conference, Vancouver, Canada, June 5-8, 2022.
+
+- *Calibrating distribution models from PELVE*, SSC 2022 Annual Meeting, Online, May 30-June 3, 2022.
 
 - *Risk aggregation under dependence uncertainty and an order constraint*, 2nd Waterloo Student Conference in Statistics, Actuarial Science and Finance, Online, Nov 5-6, 2021.
 
