@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Koike, T., **Lin, L.** and Wang, R. (2022). Joint mixability and negative orthant dependence. *arXiv*: 2204.11438.[[<span style="color:green">Arxiv</span>]](https://arxiv.org/abs/2204.11438) 
 
+- Xia, H.,  **Lin, L.**  and Wang, R. (2022). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679.[[<span style="color:green">Arxiv</span>]](https://arxiv.org/abs/2206.13679) 
+
+- Koike, T., **Lin, L.** and Wang, R. (2022). Joint mixability and negative orthant dependence. *arXiv*: 2204.11438.[[<span style="color:green">Arxiv</span>]](https://arxiv.org/abs/2204.11438) 
 
 - Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. *arXiv*: 2204.08882.[[<span style="color:green">Arxiv</span>]](https://arxiv.org/abs/2204.08882) 
 
