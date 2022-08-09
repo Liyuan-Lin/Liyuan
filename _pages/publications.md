@@ -6,11 +6,12 @@ author_profile: true
 ---
 
 
-- Xia, H.,  **Lin, L.**  and Wang, R. (2022). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679.[[<span style="color:green">Arxiv</span>]](https://arxiv.org/abs/2206.13679) 
+- Xia, H.,  **Lin, L.**  and Wang, R. (2022). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679), *SSRN*: 4149069.[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069)
 
-- Koike, T., **Lin, L.** and Wang, R. (2022). Joint mixability and negative orthant dependence. *arXiv*: 2204.11438.[[<span style="color:green">Arxiv</span>]](https://arxiv.org/abs/2204.11438) 
 
-- Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. *arXiv*: 2204.08882.[[<span style="color:green">Arxiv</span>]](https://arxiv.org/abs/2204.08882) 
+- Koike, T., **Lin, L.** and Wang, R. (2022). Joint mixability and negative orthant dependence. *arXiv*: 2204.11438.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
+
+- Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. *arXiv*: 2204.08882.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.08882) 
 
 - Yu, L., **Lin, L.**, Guan, G. and Liu, J. (2022). Time-consistent lifetime portfolio selection under smooth ambiguity. Accepted by Mathematical Control and Related Fields.[[<span style="color:green">Journal</span>]](https://www.aimsciences.org/article/doi/10.3934/mcrf.2022023) 
 
