@@ -4,6 +4,9 @@ title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+-*Diversification Quotients: Quantifying Diversification via Risk Measures*, 57th Actuarial Research Conference, Urbana-Champaign, United States, August 3 to August 6, 2022.
+
 - *Calibrating distribution models from PELVE*, 25th International Congress on Insurance: Mathematics and Economics, Online, July 12-15, 2022.
 
 - *Measuring diversification via risk measures*, 2022 CORS/INFORMS International Conference, Vancouver, Canada, June 5-8, 2022.
