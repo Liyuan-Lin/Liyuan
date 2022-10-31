@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Assistant at UW
   
-  - STAT  231 (Spring 2022) - Probability
+  - STAT  230 (Spring 2022) - Probability
   
   - ACTSC 446 (Winter 2022) - Mathematics of Financial Markets
   
