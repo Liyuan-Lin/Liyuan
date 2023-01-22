@@ -20,3 +20,4 @@ author_profile: true
 ## Conferences Organized
 
 - 2nd Waterloo Student Conference in Statistics, Actuarial Science and Finance (Volunteer), 2021 (Online)
+- 3nd Waterloo Student Conference in Statistics, Actuarial Science and Finance (Volunteer), 2022, Waterloo, Canada 
