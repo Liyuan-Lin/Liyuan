@@ -15,10 +15,14 @@ redirect_from:
 ## About Me
 - I am a second-year Ph.D. student in Actuarial Science at the University of Waterloo (UW), supervised by [Prof. Ruodu Wang](https://sas.uwaterloo.ca/~wang/) and [Prof. Alexander Schied](https://uwaterloo.ca/scholar/aschied).
 - I received my Master degree in Actuarial Science at Central University of Finance and Economics (CUFE), supervised by [Prof. Jingzhen Liu](http://ins.cufe.edu.cn/info/1027/1200.htm).
-- My reseach interest includes dependence and risk aggregation, risk measure and stochastic control.
+- My reseach interest includes dependence and risk aggregation and risk measure.
 
 ## News
-We are hosting a [weekly seminar on risk management and actuarial science](https://yang-liu16.github.io/seminar/) online. Researchers all over the world interested in quantitative risk management, actuarial science and mathematical finance are welcomed to join us by sending emails to me, [Yang Liu](https://yang-liu16.github.io/), or [Qiuqi Wang](https://qwangan.github.io/).
+- It is my great honor to accept The James C. Hickman Scholar Doctoral Stipend from SOA and The Sir EJ prize from IFOA.
+
+- We are hosting a [weekly seminar on risk management and actuarial science](https://yang-liu16.github.io/seminar/) online. Researchers all over the world interested in quantitative risk management, actuarial science and mathematical finance are welcomed to join us by sending emails to me, [Yang Liu](https://yang-liu16.github.io/), or [Qiuqi Wang](https://qwangan.github.io/).
+
+
 
 ## Contact Me
 
