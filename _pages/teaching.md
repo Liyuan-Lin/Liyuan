@@ -6,10 +6,14 @@ author_profile: true
 ---
 
 ## Teaching Assistant at UW
+ 
+  - ACTSC 232 (Winter 2023) - Life Contingencies I
   
+  - ACTSC 363 (Fall 2022) - Casualty and Health Insurance Mathematics 1
+   
   - STAT  230 (Spring 2022) - Probability
   
-  - ACTSC 446 (Winter 2022) - Mathematics of Financial Markets
+  - ACTSC 446 (Winter 2022, Fall 2022) - Mathematics of Financial Markets
   
   - ACTSC 331 (Winter 2022) - Life Contingencies 2
   
@@ -19,7 +23,7 @@ author_profile: true
   
   - ACTSC 445 (Spring 2021) - Quantitative Enterprise Risk Management
   
-  - ACTSC 371 (Spring 2021) - Introduction to Investment
+  - ACTSC 371 (Spring 2021, Winter 2023) - Introduction to Investment
   
   
 ## Teaching Assistant at CUFE
