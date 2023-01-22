@@ -5,9 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-- *Diversification Quotients: Quantifying Diversification via Risk Measures*, 2022 INFORMS Annual Meeting, Indianapolis, United States,  October 16 to October 19, 2022.
+- *Diversification Quotients: Quantifying Diversification via Risk Measures*, 2022 INFORMS Annual Meeting, Indianapolis, United States,  October 16-19, 2022.
 
-- *Diversification Quotients: Quantifying Diversification via Risk Measures*, 57th Actuarial Research Conference, Urbana-Champaign, United States, August 3 to August 6, 2022.
+- *Diversification Quotients: Quantifying Diversification via Risk Measures*, 3rd Waterloo Student Conference in Statistics, Actuarial Science and Finance, Waterloo, Canada, October 14-15, 2022.
+
+- *Diversification Quotients: Quantifying Diversification via Risk Measures*, 57th Actuarial Research Conference, Urbana-Champaign, United States, August 3-6, 2022.
 
 - *Calibrating distribution models from PELVE*, 25th International Congress on Insurance: Mathematics and Economics, Online, July 12-15, 2022.
 
