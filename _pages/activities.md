@@ -21,3 +21,7 @@ author_profile: true
 
 - 2nd Waterloo Student Conference in Statistics, Actuarial Science and Finance (Volunteer), 2021 (Online)
 - 3nd Waterloo Student Conference in Statistics, Actuarial Science and Finance (Volunteer), 2022, Waterloo, Canada 
+
+## Peer-review 
+- Actuarial science journal(s): European Actuarial Journal, Insurance: Mathematics and Economics, ASTIN Bulletin
+- Probability journal(s): Statistics and Probability Letters
