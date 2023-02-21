@@ -5,9 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-- Xia, H.,  **Lin, L.**  and Wang, R. (2022). Diversification quotients based on VaR and ES. *arXiv*: 2301.03517.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)
+- Lauzier, J., **Lin, L.** and  Wang, R. (2023). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
 
-- Xia, H.,  **Lin, L.**  and Wang, R. (2022). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679), *SSRN*: 4149069.[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069)
+- Xia, H.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. *arXiv*: 2301.03517.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)
+
+- Xia, H.,  **Lin, L.**  and Wang, R. (2023). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679), *SSRN*: 4149069.[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069)
 
 
 - Koike, T., **Lin, L.** and Wang, R. (2022). Joint mixability and negative orthant dependence. *arXiv*: 2204.11438.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
