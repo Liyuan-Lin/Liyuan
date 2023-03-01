@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Lauzier, J., **Lin, L.** and  Wang, R. (2023). Pairwise counter-monotonicity.  *arXiv*:2302.11701.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.11701)
+
 - Lauzier, J., **Lin, L.** and  Wang, R. (2023). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
 
 - Xia, H.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. *arXiv*: 2301.03517.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)
