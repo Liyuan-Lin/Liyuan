@@ -9,9 +9,9 @@ author_profile: true
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2023). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
 
-- Xia, H.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. *arXiv*: 2301.03517.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)
+- Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. *arXiv*: 2301.03517.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)
 
-- Xia, H.,  **Lin, L.**  and Wang, R. (2023). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679), *SSRN*: 4149069.[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069)
+- Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679), *SSRN*: 4149069.[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069)
 
 
 - Koike, T., **Lin, L.** and Wang, R. (2022). Joint mixability and negative orthant dependence. *arXiv*: 2204.11438.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
@@ -24,7 +24,7 @@ author_profile: true
 
 - **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2020). The optimal reinsurance strategy with price-competition between two reinsurers. Submitted.[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/reinsurance-0821.pdf) 
 
-- Liu, J., **Lin, L.**, Yiu, K.F.C. and Wei J. (2020). Non-exponential discounting portfolio management with habit formation. Mathematical Control and Related Fields, 10(4): 761-783.[[<span style="color:green">Journal</span>]](https://www.aimsciences.org/article/doi/10.3934/mcrf.2020019) 
+- Liu, J., **Lin, L.**, Yiu, K.F.C. and Wei, J. (2020). Non-exponential discounting portfolio management with habit formation. Mathematical Control and Related Fields, 10(4): 761-783.[[<span style="color:green">Journal</span>]](https://www.aimsciences.org/article/doi/10.3934/mcrf.2020019) 
 
 - Liu, J., Yan, S. and **Lin, L.** (2020). Optimal asset allocation for households with habit formation. Submitted. (In Chinese).[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/family.pdf) 
 
