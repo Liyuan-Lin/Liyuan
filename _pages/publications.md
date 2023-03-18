@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-##Manuscripts
+## Manuscripts
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2023). Pairwise counter-monotonicity.  *arXiv*:2302.11701.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.11701)
 
@@ -25,7 +25,7 @@ author_profile: true
 
 
 
-##Publication
+## Publication
 
 - Yu, L., **Lin, L.**, Guan, G. and Liu, J. (2023). Time-consistent lifetime portfolio selection under smooth ambiguity. Mathematical Control and Related Fields, 13(3): 967-987.[[<span style="color:green">Journal</span>]](https://www.aimsciences.org/article/doi/10.3934/mcrf.2022023) 
 
