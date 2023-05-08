@@ -4,8 +4,11 @@ title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
+- *Joint mixability and notions of negative dependence*, 26th International Congress on Insurance: Mathematics and Economics,  Edinburgh, United Kingdom,   July 4-7, 2023.
 
-- *Diversification Quotients: Quantifying Diversification via Risk Measures*, 2022 INFORMS Annual Meeting, Indianapolis, United States,  October 16-19, 2022.
+- *Diversification Quotients: Quantifying Diversification via Risk Measures*, SIAM Conference on Financial Mathematics and Engineering (FM23), Philadelphia, Pennsylvania, United States, June 6-9, 2023 (Invited).
+
+- *Diversification Quotients: Quantifying Diversification via Risk Measures*, 2022 INFORMS Annual Meeting, Indianapolis, United States,  October 16-19, 2022 (Invited).
 
 - *Diversification Quotients: Quantifying Diversification via Risk Measures*, 3rd Waterloo Student Conference in Statistics, Actuarial Science and Finance, Waterloo, Canada, October 14-15, 2022.
 
