@@ -19,7 +19,7 @@ author_profile: true
 
 - Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. *arXiv*: 2204.08882.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.08882) 
 
-- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2020). The optimal reinsurance strategy with price-competition between two reinsurers. Submitted.[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/reinsurance-0821.pdf) 
+- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2020). The optimal reinsurance strategy with price-competition between two reinsurers. Submitted.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
 
 - Liu, J., Yan, S. and **Lin, L.** (2020). Optimal asset allocation for households with habit formation. Submitted. (In Chinese).[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/family.pdf) 
 
