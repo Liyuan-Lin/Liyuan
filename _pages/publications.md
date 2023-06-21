@@ -7,7 +7,7 @@ author_profile: true
 
 ## Manuscripts
 
-- Lauzier, J., **Lin, L.** and  Wang, R. (2023). Pairwise counter-monotonicity.  *arXiv*:2302.11701.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.11701)
+- Koike, T., **Lin, L.** and  Wang, R. (2023).Invariant correlation under marginal transforms. *arXiv*:2306.11188.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2306.11188)
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2023). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
 
@@ -17,7 +17,7 @@ author_profile: true
 
 - Koike, T., **Lin, L.** and Wang, R. (2022). Joint mixability and negative orthant dependence. *arXiv*: 2204.11438.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
 
-- Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. *arXiv*: 2204.08882.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.08882) 
+
 
 - **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2020). The optimal reinsurance strategy with price-competition between two reinsurers. Submitted.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
 
@@ -27,6 +27,10 @@ author_profile: true
 
 ## Publication
 
+- Lauzier, J., **Lin, L.** and  Wang, R. (2023). Pairwise counter-monotonicity.  *arXiv*:2302.11701. Accepted by Insurance: Mathematics and Economics. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.11701)
+
+- Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. *arXiv*: 2204.08882. Accepted by North American Actuarial Journal. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.08882)
+  
 - Yu, L., **Lin, L.**, Guan, G. and Liu, J. (2023). Time-consistent lifetime portfolio selection under smooth ambiguity. Mathematical Control and Related Fields, 13(3): 967-987.[[<span style="color:green">Journal</span>]](https://www.aimsciences.org/article/doi/10.3934/mcrf.2022023) 
 
 - Chen, Y., **Lin, L.** and Wang, R. (2021). Risk aggregation under dependence uncertainty and an order constraint. Insurance: Mathematics and Economics, 102: 169-187. [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2021.10.006) 
