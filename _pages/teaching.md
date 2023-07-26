@@ -6,8 +6,10 @@ author_profile: true
 ---
 
 ## Teaching Assistant at UW
+
+  - STAT 333 (Spring 2023) - Stochastic Process 1
  
-  - ACTSC 232 (Winter 2023) - Life Contingencies I
+  - ACTSC 232 (Winter 2023) - Life Contingencies 1
   
   - ACTSC 363 (Fall 2022) - Casualty and Health Insurance Mathematics 1
    
@@ -19,9 +21,7 @@ author_profile: true
   
   - ACTSC 431 (Fall 2021) - Casualty and Health Insurance Mathematics 2
   
-  - ACTSC 445 (Fall 2021) - Quantitative Enterprise Risk Management
-  
-  - ACTSC 445 (Spring 2021) - Quantitative Enterprise Risk Management
+  - ACTSC 445 (Fall 2021, Spring 2021) - Quantitative Enterprise Risk Management
   
   - ACTSC 371 (Spring 2021, Winter 2023) - Introduction to Investment
   
