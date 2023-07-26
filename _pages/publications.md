@@ -27,9 +27,10 @@ author_profile: true
 
 ## Publication
 
-- Lauzier, J., **Lin, L.** and  Wang, R. (2023). Pairwise counter-monotonicity.  *arXiv*:2302.11701. Accepted by Insurance: Mathematics and Economics. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.11701)
+- Lauzier, J., **Lin, L.** and  Wang, R. (2023). Pairwise counter-monotonicity. Insurance: Mathematics and Economics, 111: 279–287.
+ [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.05.006)
 
-- Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. *arXiv*: 2204.08882. Accepted by North American Actuarial Journal. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.08882)
+- Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. North American Actuarial Journal, online. [[<span style="color:green">Journal</span>]](https://doi.org/10.1080/10920277.2023.2211648)
   
 - Yu, L., **Lin, L.**, Guan, G. and Liu, J. (2023). Time-consistent lifetime portfolio selection under smooth ambiguity. Mathematical Control and Related Fields, 13(3): 967-987.[[<span style="color:green">Journal</span>]](https://www.aimsciences.org/article/doi/10.3934/mcrf.2022023) 
 
