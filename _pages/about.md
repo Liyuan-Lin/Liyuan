@@ -20,7 +20,7 @@ redirect_from:
 ## News
 - It is my great honor to accept The James C. Hickman Scholar Doctoral Stipend from SOA and The Sir EJ prize from IFOA.
 
-- We are hosting a [weekly seminar on risk management and actuarial science](https://yang-liu16.github.io/seminar/) online. Researchers all over the world interested in quantitative risk management, actuarial science and mathematical finance are welcome to join us by sending emails to me, [Yang Liu](https://yang-liu16.github.io/), or [Qiuqi Wang](https://qwangan.github.io/).
+- We are hosting a [weekly seminar on risk management and actuarial science](https://yang-liu16.github.io/seminar/) online. Researchers all over the world interested in quantitative risk management, actuarial science and mathematical finance are welcome to join us by sending emails to me, [Yang Liu](https://yang-liu16.github.io/),  [Qiuqi Wang](https://qwangan.github.io/) or [Zhanyi Jiao](https://zhanyij.github.io/).
 
 
 
