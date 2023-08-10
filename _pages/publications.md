@@ -28,7 +28,7 @@ author_profile: true
 ## Publication
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2023). Pairwise counter-monotonicity. Insurance: Mathematics and Economics, 111: 279–287.
- [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.05.006) [[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2302.11701.pdf))
+ [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.05.006) [[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2302.11701.pdf)
 
 - Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. North American Actuarial Journal, online. [[<span style="color:green">Journal</span>]](https://doi.org/10.1080/10920277.2023.2211648)[[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2204.08882.pdf)
   
