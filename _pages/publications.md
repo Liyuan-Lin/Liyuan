@@ -15,7 +15,7 @@ author_profile: true
 
 - Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679), *SSRN*: 4149069.[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069)
 
-- Koike, T., **Lin, L.** and Wang, R. (2022). Joint mixability and negative orthant dependence. *arXiv*: 2204.11438.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
+- Koike, T., **Lin, L.** and Wang, R. (2022). Joint mixability and notions of negative dependence. *arXiv*: 2204.11438.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
 
 
 
