@@ -11,7 +11,6 @@ author_profile: true
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2023). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
 
-- Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. *arXiv*: 2301.03517.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)
 
 - Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679), *SSRN*: 4149069.[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069)
 
@@ -26,6 +25,8 @@ author_profile: true
 
 
 ## Publication
+
+- Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. *arXiv*: 2301.03517.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517) (Accepted by Insurance: Mathematics and Economics)
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2023). Pairwise counter-monotonicity. Insurance: Mathematics and Economics, 111: 279–287.
  [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.05.006) [[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2302.11701.pdf)
