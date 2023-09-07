@@ -4,6 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Instructor at UW
+  - STAT  230 (Fall 2023) - Probability
 
 ## Teaching Assistant at UW
 
