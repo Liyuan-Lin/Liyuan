@@ -26,7 +26,7 @@ author_profile: true
 
 ## Publication
 
-- Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. *arXiv*: 2301.03517.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517) (Accepted by Insurance: Mathematics and Economics)
+- Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. Insurance: Mathematics and Economics, 113: 185–197. [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)[[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.08.006)
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2023). Pairwise counter-monotonicity. Insurance: Mathematics and Economics, 111: 279–287.
  [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.05.006) [[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2302.11701.pdf)
