@@ -14,7 +14,7 @@ author_profile: true
 
 - Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679,  *SSRN*: 4149069.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679)[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069) [[<span style="color:green">Code</span>]](https://github.com/Liyuan-Lin/DQ)
 
-- Koike, T., **Lin, L.** and Wang, R. (2022). Joint mixability and notions of negative dependence. Accepted by Mathematics of Operations Research. *arXiv*: 2204.11438.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
+
 
 
 
@@ -24,7 +24,9 @@ author_profile: true
 
 
 
-## Publication
+## Publications
+
+- Koike, T., **Lin, L.** and Wang, R. (2023). Joint mixability and notions of negative dependence. Accepted by Mathematics of Operations Research. *arXiv*: 2204.11438.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
 
 - Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. Insurance: Mathematics and Economics, 113: 185–197. [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.08.006)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)
 
