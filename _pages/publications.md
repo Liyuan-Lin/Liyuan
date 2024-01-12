@@ -7,6 +7,8 @@ author_profile: true
 
 ## Manuscripts
 
+- Lauzier, J., **Lin, L.** and  Wang, R. (2023). Negatively dependent optimal risk sharing. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
+
 - Koike, T., **Lin, L.** and  Wang, R. (2023). Invariant correlation under marginal transforms. *arXiv*:2306.11188.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2306.11188)
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2023). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
