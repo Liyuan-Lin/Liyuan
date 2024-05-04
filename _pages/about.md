@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://liyuan-lin.github.io/Liyuan/images/photo_lin.jpg" alt="Photo" style="width: 450px;"/> 
+  <img src="https://liyuan-lin.github.io/Liyuan/images/photo_lin2.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
 ## About Me
