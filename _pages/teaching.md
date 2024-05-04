@@ -9,6 +9,12 @@ author_profile: true
 
 ## Teaching Assistant at UW
 
+  - ACTSC 231 (Spring 2024) - Mathematics of Finance
+    
+  - ACTSC 221 (Winter 2024) - Introduction to Financial Mathematics
+  
+  - STAT 202 (Winter 2024) - Introductory Statistics for Scientists
+    
   - STAT 333 (Spring 2023) - Stochastic Process 1
  
   - ACTSC 232 (Winter 2023) - Life Contingencies 1
