@@ -15,12 +15,13 @@ redirect_from:
 ## About Me
 - I am a final year Ph.D. student in Actuarial Science at the University of Waterloo (UW), supervised by [Prof. Ruodu Wang](https://sas.uwaterloo.ca/~wang/) and [Prof. Alexander Schied](https://uwaterloo.ca/scholar/aschied).
 - I received my Master's degree in Actuarial Science at the Central University of Finance and Economics (CUFE), supervised by [Prof. Jingzhen Liu](http://ins.cufe.edu.cn/info/1027/1200.htm).
-- My research interest includes Actuarial Science, Dependence and Risk Aggregation, Quantitative Risk Management and Stochastic Control.
+- My research interests include Actuarial Science, Dependence and Risk Aggregation, Quantitative Risk Management and Stochastic Control.
 
 ## News
 - It is my great honor to accept The James C. Hickman Scholar Doctoral Stipend from SOA and The Sir EJ prize from IFOA.
 
-- I am currently one of the seminar organizers for [weekly seminar on risk management and actuarial science](https://yang-liu16.github.io/seminar/). 
+- I received the Graduate Research Excellence award from the Faculty of Mathematics, University of Waterloo. I am honored to be the first Actuarial Science student to receive this award in three years.
+
 
 
 
