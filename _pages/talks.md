@@ -4,6 +4,11 @@ title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+- *Negatively dependent optimal risk sharings*, FADeRiS 2024, Ulm, Germany, May 27-29, 2024.
+
+- *Optimal transport under uncertainty on the components*, BIRS: Optimal Transport and Distributional Robustness workshop,  Banff, Canada,   March 24-29, 2024.
+
 - *Joint mixability and notions of negative dependence*, 26th International Congress on Insurance: Mathematics and Economics,  Edinburgh, United Kingdom,   July 4-7, 2023.
 
 - *Diversification Quotients: Quantifying Diversification via Risk Measures*, SIAM Conference on Financial Mathematics and Engineering (FM23), Philadelphia, Pennsylvania, United States, June 6-9, 2023.
