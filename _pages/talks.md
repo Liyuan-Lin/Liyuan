@@ -4,6 +4,7 @@ title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
+- *Negatively dependent optimal risk sharings*, 27th International Congress on Insurance: Mathematics and Economics,  Chicago, United States,   July 8-11, 2024.
 
 - *Negatively dependent optimal risk sharings*, FADeRiS 2024, Ulm, Germany, May 27-29, 2024.
 
