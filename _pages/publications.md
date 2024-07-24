@@ -22,7 +22,7 @@ author_profile: true
 
 
 
-- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2024). The optimal reinsurance strategy with price-competition between two reinsurers. Submitted.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
+- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2024). The optimal reinsurance strategy with price-competition between two reinsurers. *arXiv*:2305.00509.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
 
 - Liu, J., Yan, S. and **Lin, L.** (2020). Optimal asset allocation for households with habit formation. Submitted. (In Chinese).[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/family.pdf) 
 
