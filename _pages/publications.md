@@ -7,22 +7,22 @@ author_profile: true
 
 ## Manuscripts
 
-- **Lin, L.** and  Wang, R,  Zhang, R., and  Zhao, C. (2023). The checkerboard copula and dependence concepts. *arXiv*:2404.15023.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.15023)
+- **Lin, L.** and  Wang, R,  Zhang, R., and  Zhao, C. (2024). The checkerboard copula and dependence concepts. *arXiv*:2404.15023.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.15023)
 
-- Lauzier, J., **Lin, L.** and  Wang, R. (2023). Negatively dependent optimal risk sharing. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
+- Lauzier, J., **Lin, L.** and  Wang, R. (2024). Negatively dependent optimal risk sharing. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
 
-- Koike, T., **Lin, L.** and  Wang, R. (2023). Invariant correlation under marginal transforms. *arXiv*:2306.11188.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2306.11188)
+- Koike, T., **Lin, L.** and  Wang, R. (2024). Invariant correlation under marginal transforms. *arXiv*:2306.11188.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2306.11188)
 
-- Lauzier, J., **Lin, L.** and  Wang, R. (2023). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
-
-
-- Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679,  *SSRN*: 4149069.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679)[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069) [[<span style="color:green">Code</span>]](https://github.com/Liyuan-Lin/DQ)
+- Lauzier, J., **Lin, L.** and  Wang, R. (2024). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
 
 
+- Han, X.,  **Lin, L.**  and Wang, R. (2024). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679,  *SSRN*: 4149069.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679)[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069) [[<span style="color:green">Code</span>]](https://github.com/Liyuan-Lin/DQ)
 
 
 
-- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2020). The optimal reinsurance strategy with price-competition between two reinsurers. Submitted.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
+
+
+- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2024). The optimal reinsurance strategy with price-competition between two reinsurers. Submitted.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
 
 - Liu, J., Yan, S. and **Lin, L.** (2020). Optimal asset allocation for households with habit formation. Submitted. (In Chinese).[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/family.pdf) 
 
@@ -37,7 +37,7 @@ author_profile: true
 - Lauzier, J., **Lin, L.** and  Wang, R. (2023). Pairwise counter-monotonicity. Insurance: Mathematics and Economics, 111: 279–287.
  [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.05.006) [[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2302.11701.pdf)
 
-- Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. North American Actuarial Journal, online. [[<span style="color:green">Journal</span>]](https://doi.org/10.1080/10920277.2023.2211648)[[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2204.08882.pdf)
+- Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. North American Actuarial Journal, 28(2), 373-406. [[<span style="color:green">Journal</span>]](https://doi.org/10.1080/10920277.2023.2211648)[[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2204.08882.pdf)
   
 - Yu, L., **Lin, L.**, Guan, G. and Liu, J. (2023). Time-consistent lifetime portfolio selection under smooth ambiguity. Mathematical Control and Related Fields, 13(3): 967-987.[[<span style="color:green">Journal</span>]](https://www.aimsciences.org/article/doi/10.3934/mcrf.2022023) 
 
