@@ -13,6 +13,7 @@ redirect_from:
 </p>
 
 ## About Me
+- I accepted the senior lecturer position from the Department of Econometrics and Business Statistics at Monash University.
 - I am a final year Ph.D. student in Actuarial Science at the University of Waterloo (UW), supervised by [Prof. Ruodu Wang](https://sas.uwaterloo.ca/~wang/) and [Prof. Alexander Schied](https://uwaterloo.ca/scholar/aschied).
 - I received my Master's degree in Actuarial Science at the Central University of Finance and Economics (CUFE), supervised by [Prof. Jingzhen Liu](http://ins.cufe.edu.cn/info/1027/1200.htm).
 - My research interests include Actuarial Science, Dependence and Risk Aggregation, Quantitative Risk Management and Stochastic Control.
