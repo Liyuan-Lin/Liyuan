@@ -12,11 +12,16 @@ redirect_from:
   <img src="https://liyuan-lin.github.io/Liyuan/images/photo_lin2.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
-## About Me
-- I accepted the senior lecturer position from the Department of Econometrics and Business Statistics at Monash University.
-- I am a final year Ph.D. student in Actuarial Science at the University of Waterloo (UW), supervised by [Prof. Ruodu Wang](https://sas.uwaterloo.ca/~wang/) and [Prof. Alexander Schied](https://uwaterloo.ca/scholar/aschied).
-- I received my Master's degree in Actuarial Science at the Central University of Finance and Economics (CUFE), supervised by [Prof. Jingzhen Liu](http://ins.cufe.edu.cn/info/1027/1200.htm).
-- My research interests include Actuarial Science, Dependence and Risk Aggregation, Quantitative Risk Management and Stochastic Control.
+## Academic Appointment
+- Senior Lecturer - Monash University, 2024.8 - present
+
+## Education
+- Ph.D. in Actuarial Science - University of Waterloo (Supervisors: [Prof. Ruodu Wang](https://sas.uwaterloo.ca/~wang/) and [Prof. Alexander Schied](https://uwaterloo.ca/scholar/aschied)), 2024
+- Master degree in Economics - the Central University of Finance and Economics (Supervisor: [Prof. Jingzhen Liu](http://ins.cufe.edu.cn/info/1027/1200.htm)), 2020
+- Bachelor in Economics - Central University of Finance and Economics (Supervisor: [Prof. Jingzhen Liu](http://ins.cufe.edu.cn/info/1027/1200.htm)), 2017
+
+## Research Interests
+-  Actuarial Science; Dependence and Risk Aggregation; Quantitative Risk Management; Stochastic Control
 
 ## News
 - It is my great honor to accept The James C. Hickman Scholar Doctoral Stipend from SOA and The Sir EJ prize from IFOA.
@@ -28,8 +33,8 @@ redirect_from:
 
 ## Contact Me
 
-   Email: l89lin@uwaterloo.ca
+   Email: liyuan.lin@monash.edu
     
-   Office: Room 4221, Department of Statistics and Actuarial Science
+   Office: Room 242
    
-   Address: Mathematics 3, University of Waterloo, 200 University Avenue West, Waterloo, Ontario, Canada N2L 3G1
+   Address: Building 6, Clayton campus, Monash University
