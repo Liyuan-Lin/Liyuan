@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Liyuan Lin"
   avatar           : "profile.png"
-  bio              : "Ph.D. student, Department of Statistics and Actuarial Science, University of Waterloo"
-  location         : "Waterloo, Ontario, Canada"
+  bio              : "Senior Lecturer, Department of Econometrics and Business Statistics, Monash University"
+  location         : "Clayton, Melbourne, VIC, Australia"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=LJkk2-wAAAAJ&hl=zh-CN&oi=sra"
-  email            : "l89lin@uwaterloo.ca"
+  email            : "liyuan.lin@monash.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
