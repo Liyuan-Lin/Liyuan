@@ -37,7 +37,7 @@ redirect_from:
 
    Phone: + (61) 99055042
     
-   Office: Room 242
+   Office: Room 242, Building 6
    
    Address: 29 Ancora Imparo Way, Clayton, VIC, Australia
 
