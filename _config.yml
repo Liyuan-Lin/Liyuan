@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Liyuan Lin's Webpage"
 title_separator          : "-"
-name                     : &name "Liyuan Lin, Ph.D., A.S.A."
+name                     : &name "Liyuan Lin"
 description              : &description "personal description"
 url                      : https://liyuan-lin.github.io/Liyuan/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Liyuan Lin"
+  name             : "Liyuan Lin, Ph.D., A.S.A."
   avatar           : "profile.png"
   bio              : "Senior Lecturer, Department of Econometrics and Business Statistics, Monash University"
   location         : "Clayton, VIC, Australia"
