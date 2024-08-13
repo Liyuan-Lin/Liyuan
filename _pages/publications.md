@@ -18,17 +18,13 @@ author_profile: true
 
 - Han, X.,  **Lin, L.**  and Wang, R. (2024). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679,  *SSRN*: 4149069.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679)[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069) [[<span style="color:green">Code</span>]](https://github.com/Liyuan-Lin/DQ)
 
-
-
-
-
-- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2024). The optimal reinsurance strategy with price-competition between two reinsurers. *arXiv*:2305.00509.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
-
 - Liu, J., Yan, S. and **Lin, L.** (2020). Optimal asset allocation for households with habit formation. Submitted. (In Chinese).[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/family.pdf) 
 
 
 
 ## Publications
+
+- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2024). The optimal reinsurance strategy with price-competition between two reinsurers. Accepted by Scandinavian Actuarial Journal. *arXiv*:2305.00509.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
 
 - Koike, T., **Lin, L.** and Wang, R. (2023). Joint mixability and notions of negative dependence. Accepted by Mathematics of Operations Research. *arXiv*: 2204.11438.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
 
