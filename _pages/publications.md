@@ -11,7 +11,7 @@ author_profile: true
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2024). Negatively dependent optimal risk sharing. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
 
-- Koike, T., **Lin, L.** and  Wang, R. (2024). Invariant correlation under marginal transforms. *arXiv*:2306.11188.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2306.11188)
+
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2024). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
 
@@ -23,6 +23,8 @@ author_profile: true
 
 
 ## Publications
+
+- Koike, T., **Lin, L.** and  Wang, R. (2024). Invariant correlation under marginal transforms. Accepted by Journal of Multivariate Analysis.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2306.11188)
 
 - **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2024). The optimal reinsurance strategy with price-competition between two reinsurers. Accepted by Scandinavian Actuarial Journal. *arXiv*:2305.00509.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
 
