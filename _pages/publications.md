@@ -11,12 +11,7 @@ author_profile: true
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2024). Negatively dependent optimal risk sharing. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
 
-
-
 - Lauzier, J., **Lin, L.** and  Wang, R. (2024). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
-
-
-- Han, X.,  **Lin, L.**  and Wang, R. (2024). Diversification Quotients: Quantifying Diversification via Risk Measures. *arXiv*: 2206.13679,  *SSRN*: 4149069.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679)[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069) [[<span style="color:green">Code</span>]](https://github.com/Liyuan-Lin/DQ)
 
 - Liu, J., Yan, S. and **Lin, L.** (2020). Optimal asset allocation for households with habit formation. Submitted. (In Chinese).[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/family.pdf) 
 
@@ -24,9 +19,12 @@ author_profile: true
 
 ## Publications
 
-- Koike, T., **Lin, L.** and  Wang, R. (2024). Invariant correlation under marginal transforms. Accepted by Journal of Multivariate Analysis.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2306.11188)
 
+- Koike, T., **Lin, L.** and  Wang, R. (2024). Invariant correlation under marginal transforms. Accepted by Journal of Multivariate Analysis. *arXiv*:2306.11188.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2306.11188)
+  
 - **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2024). The optimal reinsurance strategy with price-competition between two reinsurers. Accepted by Scandinavian Actuarial Journal. *arXiv*:2305.00509.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
+
+- Han, X.,  **Lin, L.**  and Wang, R. (2024). Diversification Quotients: Quantifying Diversification via Risk Measures. Accepted by Management Science. *arXiv*: 2206.13679,  *SSRN*: 4149069.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679)[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069) [[<span style="color:green">Code</span>]](https://github.com/Liyuan-Lin/DQ)
 
 - Koike, T., **Lin, L.** and Wang, R. (2023). Joint mixability and notions of negative dependence. Accepted by Mathematics of Operations Research. *arXiv*: 2204.11438.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
 
