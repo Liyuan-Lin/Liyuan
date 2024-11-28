@@ -7,6 +7,8 @@ author_profile: true
 
 ## Manuscripts
 
+-Han, X.,  **Lin, L.**, Hao Wang  and Wang, R. (2024). Diversification quotient based on expectiles. *arXiv*: 2411.14646.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2411.14646)
+
 - **Lin, L.** and  Wang, R,  Zhang, R., and  Zhao, C. (2024). The checkerboard copula and dependence concepts. *arXiv*:2404.15023.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.15023)
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2024). Negatively dependent optimal risk sharing. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
