@@ -22,13 +22,15 @@ author_profile: true
 ## Publications
 
 
-- Koike, T., **Lin, L.** and  Wang, R. (2024). Invariant correlation under marginal transforms. Accepted by Journal of Multivariate Analysis. *arXiv*:2306.11188.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2306.11188)
-  
-- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2024). The optimal reinsurance strategy with price-competition between two reinsurers. Accepted by Scandinavian Actuarial Journal. *arXiv*:2305.00509.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
-
 - Han, X.,  **Lin, L.**  and Wang, R. (2024). Diversification Quotients: Quantifying Diversification via Risk Measures. Accepted by Management Science. *arXiv*: 2206.13679,  *SSRN*: 4149069.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679)[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069) [[<span style="color:green">Code</span>]](https://github.com/Liyuan-Lin/DQ)
 
-- Koike, T., **Lin, L.** and Wang, R. (2023). Joint mixability and notions of negative dependence. Accepted by Mathematics of Operations Research. *arXiv*: 2204.11438.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
+- Koike, T., **Lin, L.** and  Wang, R. (2024). Invariant correlation under marginal transforms. Journal of Multivariate Analysis. 204, 105361. [[<span style="color:green">Journal</span>]](https://www.sciencedirect.com/science/article/pii/S0047259X2400068X)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2306.11188)
+  
+- **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2024). The optimal reinsurance strategy with price-competition between two reinsurers. Scandinavian Actuarial Journal, 2024(8): 1-28. [[<span style="color:green">Journal</span>]](https://www.tandfonline.com/doi/full/10.1080/03461238.2024.2389181)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
+
+
+
+- Koike, T., **Lin, L.** and Wang, R. (2024). Joint mixability and notions of negative dependence. Mathematics of Operations Research. 49(4), 2786-2802.[[<span style="color:green">Journal</span>]](https://www.tandfonline.com/doi/full/10.1080/03461238.2024.2389181) [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
 
 - Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. Insurance: Mathematics and Economics, 113: 185–197. [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.08.006)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)
 
