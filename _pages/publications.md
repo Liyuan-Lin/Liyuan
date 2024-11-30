@@ -30,15 +30,16 @@ author_profile: true
 
 
 
-- Koike, T., **Lin, L.** and Wang, R. (2024). Joint mixability and notions of negative dependence. Mathematics of Operations Research. 49(4), 2786-2802.[[<span style="color:green">Journal</span>]](https://www.tandfonline.com/doi/full/10.1080/03461238.2024.2389181) [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438) 
+- Koike, T., **Lin, L.** and Wang, R. (2024). Joint mixability and notions of negative dependence. Mathematics of Operations Research. 49(4), 2786-2802.[[<span style="color:green">Journal</span>]](https://www.tandfonline.com/doi/full/10.1080/03461238.2024.2389181) [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438)
 
-- Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. Insurance: Mathematics and Economics, 113: 185–197. [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.08.006)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)
+- Assa, H., **Lin, L.** and Wang, R. (2024). Calibrating distribution models from PELVE. North American Actuarial Journal, 28(2), 373-406. [[<span style="color:green">Journal</span>]](https://doi.org/10.1080/10920277.2023.2211648)[[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2204.08882.pdf)
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2023). Pairwise counter-monotonicity. Insurance: Mathematics and Economics, 111: 279–287.
  [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.05.006) [[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2302.11701.pdf)
 
-- Assa, H., **Lin, L.** and Wang, R. (2022). Calibrating distribution models from PELVE. North American Actuarial Journal, 28(2), 373-406. [[<span style="color:green">Journal</span>]](https://doi.org/10.1080/10920277.2023.2211648)[[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2204.08882.pdf)
-  
+- Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. Insurance: Mathematics and Economics, 113: 185–197. [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.08.006)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)
+
+
 - Yu, L., **Lin, L.**, Guan, G. and Liu, J. (2023). Time-consistent lifetime portfolio selection under smooth ambiguity. Mathematical Control and Related Fields, 13(3): 967-987.[[<span style="color:green">Journal</span>]](https://www.aimsciences.org/article/doi/10.3934/mcrf.2022023) 
 
 - Chen, Y., **Lin, L.** and Wang, R. (2021). Risk aggregation under dependence uncertainty and an order constraint. Insurance: Mathematics and Economics, 102: 169-187. [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2021.10.006)[[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2104.07718.pdf)
