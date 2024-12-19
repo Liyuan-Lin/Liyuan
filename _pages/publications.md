@@ -11,7 +11,7 @@ author_profile: true
 
 - **Lin, L.** and  Wang, R,  Zhang, R., and  Zhao, C. (2024). The checkerboard copula and dependence concepts. *arXiv*:2404.15023.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.15023)
 
-- Lauzier, J., **Lin, L.** and  Wang, R. (2024). Negatively dependent optimal risk sharing. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
+- Lauzier, J., **Lin, L.** and  Wang, R. (2024). Optimal sharing, equilibria, and welfare without risk aversion. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2024). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
 
