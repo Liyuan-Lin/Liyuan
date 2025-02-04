@@ -9,8 +9,6 @@ author_profile: true
 
 - Han, X.,  **Lin, L.**, Hao Wang  and Wang, R. (2024). Diversification quotient based on expectiles. *arXiv*: 2411.14646.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2411.14646)
 
-- **Lin, L.** and  Wang, R,  Zhang, R., and  Zhao, C. (2024). The checkerboard copula and dependence concepts. *arXiv*:2404.15023.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.15023)
-
 - Lauzier, J., **Lin, L.** and  Wang, R. (2024). Optimal sharing, equilibria, and welfare without risk aversion. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2024). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
@@ -21,6 +19,7 @@ author_profile: true
 
 ## Publications
 
+- **Lin, L.** and  Wang, R,  Zhang, R., and  Zhao, C. (2024). The checkerboard copula and dependence concepts. Accepted by SIAM Journal on Financial Mathematics. *arXiv*:2404.15023.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.15023)
 
 - Han, X.,  **Lin, L.**  and Wang, R. (2024). Diversification Quotients: Quantifying Diversification via Risk Measures. Management Science. [[<span style="color:green">Journal</span>]](https://doi.org/10.1287/mnsc.2023.00513)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679)[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069) [[<span style="color:green">Code</span>]](https://github.com/Liyuan-Lin/DQ)
 
