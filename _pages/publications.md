@@ -12,10 +12,7 @@ author_profile: true
 - Lauzier, J., **Lin, L.** and  Wang, R. (2024). Optimal sharing, equilibria, and welfare without risk aversion. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2024). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
-
-- Liu, J., Yan, S. and **Lin, L.** (2020). Optimal asset allocation for households with habit formation. Submitted. (In Chinese).[[<span style="color:green">PDF</span>]](https://liyuan-lin.github.io/Liyuan/files/family.pdf) 
-
-
+ 
 
 ## Publications
 
