@@ -24,11 +24,12 @@ redirect_from:
 -  Actuarial Science; Dependence and Risk Aggregation; Quantitative Risk Management; Stochastic Control
 
 ## News
-- It is my great honor to accept The James C. Hickman Scholar Doctoral Stipend from SOA and The Sir EJ prize from IFOA.
 
+- It is my great honor to receive the Statistical Society of Canada's Pierre Robillard Award from the Statistical Society of Canada. This award recognizes the best PhD thesis written in the fields of probability or statistics and defended at a Canadian university in 2024.
+  
 - I received the Graduate Research Excellence award from the Faculty of Mathematics, University of Waterloo. I am honored to be the first Actuarial Science student to receive this award in three years.
 
-
+- It is my great honor to accept The James C. Hickman Scholar Doctoral Stipend from SOA and The Sir EJ prize from IFOA.
 
 
 ## Contact Me
