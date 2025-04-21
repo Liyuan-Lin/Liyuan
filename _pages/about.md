@@ -1,16 +1,4 @@
-<img width="995" alt="image" src="https://github.com/user-attachments/assets/f886c668-1a3f-452f-b61b-c1be0c50cbd7" /><img width="995" alt="image" src="https://github.com/user-attachments/assets/96d56dfe-8328-4609-bfdd-d3a9e2def015" />---
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
-<p align="center">
-  <img src="https://liyuan-lin.github.io/Liyuan/images/photo_lin2.jpg" alt="Photo" style="width: 450px;"/> 
-</p>
 
 ## Academic Appointment
 - Senior Lecturer - Monash University, 2024.8 - present
