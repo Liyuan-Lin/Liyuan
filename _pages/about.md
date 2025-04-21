@@ -1,4 +1,16 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
+<p align="center">
+  <img src="https://qwangan.github.io/images/Photo.jpeg" alt="Photo" style="width: 450px;"/> 
+</p>
 
 ## Academic Appointment
 - Senior Lecturer - Monash University, 2024.8 - present
