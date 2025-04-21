@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<p align="center">
-images/photo_lin2.jpg
-</p>
+
 <p align="center">
   <img src="https://liyuan-lin.github.io/Liyuan/images/photo_lin2.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
