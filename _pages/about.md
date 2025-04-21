@@ -1,4 +1,4 @@
----
+<img width="995" alt="image" src="https://github.com/user-attachments/assets/f886c668-1a3f-452f-b61b-c1be0c50cbd7" /><img width="995" alt="image" src="https://github.com/user-attachments/assets/96d56dfe-8328-4609-bfdd-d3a9e2def015" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -27,9 +27,10 @@ redirect_from:
 
 - It is my great honor to receive the Statistical Society of [Canada's Pierre Robillard Award](https://ssc.ca/en/awards/2025/liyuan-lin-2025-pierre-robillard-award-winner). This award recognizes the best PhD thesis written in the fields of probability or statistics and defended at a Canadian university in 2024. 
   
-- I received the Graduate Research Excellence award from the Faculty of Mathematics, University of Waterloo. I am honored to be the first Actuarial Science student to receive this award in three years.
+- I received the [Graduate Research Excellence award](https://uwaterloo.ca/math/news/liyuan-lin-wins-graduate-research-excellence-award) from the Faculty of Mathematics, University of Waterloo. I am honored to be the first Actuarial Science student to receive this award in three years.
 
 - It is my great honor to accept The James C. Hickman Scholar Doctoral Stipend from SOA and The Sir EJ prize from IFOA.
+
 
 
 ## Contact Me
