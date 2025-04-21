@@ -12,7 +12,7 @@ redirect_from:
 images/photo_lin2.jpg
 </p>
 <p align="center">
-  <img src="https://github.com/Liyuan-Lin/Liyuan/images/photo_lin2.jpg" alt="Photo" style="width: 450px;"/> 
+  <img src="https://liyuan-lin.github.io/Liyuan/images/photo_lin2.jpg" alt="Photo" style="width: 450px;"/> 
 </p>
 
 
