@@ -25,7 +25,7 @@ redirect_from:
 
 ## News
 
-- It is my great honor to receive the Statistical Society of Canada's Pierre Robillard Award. This award recognizes the best PhD thesis written in the fields of probability or statistics and defended at a Canadian university in 2024.
+- It is my great honor to receive the Statistical Society of [Canada's Pierre Robillard Award](https://ssc.ca/en/awards/2025/liyuan-lin-2025-pierre-robillard-award-winner). This award recognizes the best PhD thesis written in the fields of probability or statistics and defended at a Canadian university in 2024. 
   
 - I received the Graduate Research Excellence award from the Faculty of Mathematics, University of Waterloo. I am honored to be the first Actuarial Science student to receive this award in three years.
 
