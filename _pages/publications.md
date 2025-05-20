@@ -16,7 +16,7 @@ author_profile: true
 
 ## Publications
 
-- **Lin, L.**, Wang, R, Zhang, R. and  Zhao, C. (2024). The checkerboard copula and dependence concepts. Accepted by SIAM Journal on Financial Mathematics. *arXiv*:2404.15023.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.15023)
+- **Lin, L.**, Wang, R, Zhang, R. and  Zhao, C. (2025). The checkerboard copula and dependence concepts. SIAM Journal on Financial Mathematics. 16(2), 426-446.[[<span style="color:green">Journal</span>]](https://epubs.siam.org/doi/10.1137/24M1656645)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.15023)
 
 - Han, X.,  **Lin, L.**  and Wang, R. (2024). Diversification Quotients: Quantifying Diversification via Risk Measures. Management Science. [[<span style="color:green">Journal</span>]](https://doi.org/10.1287/mnsc.2023.00513)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679)[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069) [[<span style="color:green">Code</span>]](https://github.com/Liyuan-Lin/DQ)
 
