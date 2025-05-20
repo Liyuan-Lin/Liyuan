@@ -4,10 +4,15 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## Instructor at UW
+## Instructor at Monash University
+  - ETC3420 (Semester 2, 2025) - Applied Insurance Methods
+
+  - ETC2430 (Semester 1, 2025) - Actuarial cash flow modelling
+
+## Instructor at University of Waterloo
   - STAT  230 (Fall 2023) - Probability
 
-## Teaching Assistant at UW
+## Teaching Assistant at University of Waterloo
 
   - ACTSC 231 (Spring 2024) - Mathematics of Finance
     
