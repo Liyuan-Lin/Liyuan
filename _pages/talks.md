@@ -4,6 +4,15 @@ title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
+
+- *Optimal sharing, equilibria, and welfare without risk aversion*, 15th annual China Conference on Insurance and Risk Management, Xinjiang, China, July 9-12, 2025.
+  
+- *Optimal sharing, equilibria, and welfare without risk aversion*, The Third International Conference on Actuarial Science, Quantitative Finance, and Risk Management, Beijing, China, July 6-8, 2025 (Invited).
+  
+- *Optimal sharing, equilibria, and welfare without risk aversion*, FADeRiS 2025, Paris, France, June 4-5, 2025.
+
+- *Measures for Risk, Dependence and Diversification*, 2025 SSC Annual Meeting, Online, Saskatoon, Canada, May 25-28, 2025 (Invited).
+
 - *Negatively dependent optimal risk sharings*, 27th International Congress on Insurance: Mathematics and Economics,  Chicago, United States,   July 8-11, 2024.
 
 - *Negatively dependent optimal risk sharings*, FADeRiS 2024, Ulm, Germany, May 27-29, 2024.
