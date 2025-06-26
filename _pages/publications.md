@@ -7,9 +7,11 @@ author_profile: true
 
 ## Manuscripts
 
-- Han, X.,  **Lin, L.**, Wang, H.  and Wang, R. (2024). Diversification quotient based on expectiles. *arXiv*: 2411.14646.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2411.14646)
+- Han, X.,  **Lin, L.**, Mengshi Zhao (2025). Empirical estimator of diversification quotient. *arXiv*: 2506.20385.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2506.20385)
 
-- Lauzier, J., **Lin, L.** and  Wang, R. (2024). Optimal sharing, equilibria, and welfare without risk aversion. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
+- Lauzier, J., **Lin, L.** and  Wang, R. (2025). Optimal risk sharing, equilibria, and welfare with empirically realistic risk attitudes. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
+
+- Han, X.,  **Lin, L.**, Wang, H.  and Wang, R. (2024). Diversification quotient based on expectiles. *arXiv*: 2411.14646.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2411.14646)
 
 - Lauzier, J., **Lin, L.** and  Wang, R. (2024). Risk sharing, measuring variability, and distortion riskmetrics.  *arXiv*:2302.04034.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
  
