@@ -4,6 +4,7 @@ title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
+- *Diversification Quotient Based on Expectiles*, The 3rd Conference on Theory and Application of Actuarial Science, Tianjing, China, Oct 31 - Nov 3, 2025.
 
 - *Optimal sharing, equilibria, and welfare without risk aversion*, 15th annual China Conference on Insurance and Risk Management, Xinjiang, China, July 9-12, 2025.
   
