@@ -4,6 +4,10 @@ title: "Presentations"
 permalink: /talks/
 author_profile: true
 ---
+- *Optimal sharing, equilibria, and welfare without risk aversion*, 1st ASTIN Bulletin Conference, Zurich, Switzerland, Jan 14-16, 2026.
+  
+- *Diversification Quotient Based on Expectiles*, 2025 Australasian Actuarial Education and Research Symposium, Sydney, Australia, Dec 1-2, 2025.
+
 - *Diversification Quotient Based on Expectiles*, The 3rd Conference on Theory and Application of Actuarial Science, Tianjing, China, Oct 31 - Nov 3, 2025.
 
 - *Optimal sharing, equilibria, and welfare without risk aversion*, 15th annual China Conference on Insurance and Risk Management, Xinjiang, China, July 9-12, 2025.
