@@ -16,6 +16,9 @@ author_profile: true
  
 
 ## Publications
+
+- Liu, J., Yan, S., **Lin, L.** and Zhang, N. (2026). Optimal Asset Allocation for Households with Habit Formation. North American Actuarial Journal. [[<span style="color:green">Journal</span>]](https://www.tandfonline.com/doi/full/10.1080/10920277.2026.2642182)
+
 - Lauzier, J., **Lin, L.** and  Wang, R. (2025). Risk sharing, measuring variability, and distortion riskmetrics. Mathematical Finance. [[<span style="color:green">Journal</span>]](https://onlinelibrary.wiley.com/doi/10.1111/mafi.70007)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
 
 - **Lin, L.**, Wang, R, Zhang, R. and  Zhao, C. (2025). The checkerboard copula and dependence concepts. SIAM Journal on Financial Mathematics. 16(2), 426-446.[[<span style="color:green">Journal</span>]](https://epubs.siam.org/doi/10.1137/24M1656645)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.15023)
