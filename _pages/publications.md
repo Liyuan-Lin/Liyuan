@@ -7,9 +7,9 @@ author_profile: true
 
 ## Manuscripts
 
-- Han, X.,  **Lin, L.**, Mengshi Zhao (2025). Empirical estimator of diversification quotient. *arXiv*: 2506.20385.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2506.20385)
+- Han, X.,  **Lin, L.**, and Mengshi Zhao (2025). Empirical estimator of diversification quotient. *arXiv*: 2506.20385.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2506.20385)
 
-- Lauzier, J., **Lin, L.** and  Wang, R. (2025). Optimal risk sharing, equilibria, and welfare with empirically realistic risk attitudes. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
+- Lauzier, J., **Lin, L.**, Wakker, P. and  Wang, R. (2025). Optimal risk sharing, equilibria, and welfare with empirically realistic risk attitudes. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
 
 - Han, X.,  **Lin, L.**, Wang, H.  and Wang, R. (2024). Diversification quotient based on expectiles. *arXiv*: 2411.14646.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2411.14646)
 
@@ -17,8 +17,9 @@ author_profile: true
 
 ## Publications
 
+- Liu, J., Yan, S., **Lin, L.** and Zhang, N. (2026). Optimal asset allocation for households with habit formation. North American Actuarial Journal. [[<span style="color:green">Journal</span>]]([https://onlinelibrary.wiley.com/doi/10.1111/mafi.70007](https://doi.org/10.1080/10920277.2026.2642182))
 
-- Lauzier, J., **Lin, L.** and  Wang, R. (2025). Risk sharing, measuring variability, and distortion riskmetrics. Mathematical Finance. [[<span style="color:green">Journal</span>]](https://onlinelibrary.wiley.com/doi/10.1111/mafi.70007)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
+- Lauzier, J., **Lin, L.** and  Wang, R. (2026). Risk sharing, measuring variability, and distortion riskmetrics. Mathematical Finance. 36(2), 330-351.[[<span style="color:green">Journal</span>]](https://onlinelibrary.wiley.com/doi/10.1111/mafi.70007)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2302.04034)
 
 - **Lin, L.**, Wang, R, Zhang, R. and  Zhao, C. (2025). The checkerboard copula and dependence concepts. SIAM Journal on Financial Mathematics. 16(2), 426-446.[[<span style="color:green">Journal</span>]](https://epubs.siam.org/doi/10.1137/24M1656645)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.15023)
 
