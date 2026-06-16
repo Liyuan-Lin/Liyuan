@@ -23,7 +23,7 @@ redirect_from:
 - Bachelor in Economics - Central University of Finance and Economics (Supervisor: [Prof. Jingzhen Liu](http://ins.cufe.edu.cn/info/1027/1200.htm)), 2017
 
 ## Research Interests
--  Actuarial Science; Dependence and Risk Aggregation; Quantitative Risk Management; Stochastic Control
+-  Actuarial Science; Dependence and Risk Aggregation; Quantitative Risk Management
 
 ## News
 
