@@ -19,9 +19,12 @@ author_profile: true
    
 ## Conferences Organized
 
+- 2024 Australasian Actuarial Education and Research Symposium (Volunteer), 2024 (Caulfield, VIC, Australia)
 - 2nd Waterloo Student Conference in Statistics, Actuarial Science and Finance (Volunteer), 2021 (Online)
 - 3nd Waterloo Student Conference in Statistics, Actuarial Science and Finance (Volunteer), 2022, Waterloo, Canada 
 
 ## Peer-review 
-- Actuarial science journal(s): European Actuarial Journal, Insurance: Mathematics and Economics, ASTIN Bulletin
-- Probability journal(s): Statistics and Probability Letters
+- Actuarial science journal(s): European Actuarial Journal, Insurance: Mathematics and Economics, ASTIN Bulletin, Risk Science
+- Mathematical Finance journal(s): Mathematical Finance
+- Operations Research journal(s): Mathematics of Operations Research 
+- Probability journal(s): Statistics and Probability Letters, Bernoulli, Dependence Modelling
