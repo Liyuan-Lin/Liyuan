@@ -23,7 +23,7 @@ author_profile: true
 
 - **Lin, L.**, Wang, R, Zhang, R. and  Zhao, C. (2025). The checkerboard copula and dependence concepts. SIAM Journal on Financial Mathematics. 16(2), 426-446.[[<span style="color:green">Journal</span>]](https://epubs.siam.org/doi/10.1137/24M1656645)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2404.15023)
 
-- Han, X.,  **Lin, L.**  and Wang, R. (2024). Diversification Quotients: Quantifying Diversification via Risk Measures. Management Science. [[<span style="color:green">Journal</span>]](https://doi.org/10.1287/mnsc.2023.00513)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679)[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069) [[<span style="color:green">Code</span>]](https://github.com/Liyuan-Lin/DQ)
+- Han, X.,  **Lin, L.**  and Wang, R. (2025). Diversification Quotients: Quantifying Diversification via Risk Measures. Management Science. 71(9), 7990-8006. [[<span style="color:green">Journal</span>]](https://doi.org/10.1287/mnsc.2023.00513)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2206.13679)[[<span style="color:green">SSRN</span>]](https://ssrn.com/abstract=4149069) [[<span style="color:green">Code</span>]](https://github.com/Liyuan-Lin/DQ)
 
 - Koike, T., **Lin, L.** and  Wang, R. (2024). Invariant correlation under marginal transforms. Journal of Multivariate Analysis. 204, 105361. [[<span style="color:green">Journal</span>]](https://www.sciencedirect.com/science/article/pii/S0047259X2400068X)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2306.11188)
   
