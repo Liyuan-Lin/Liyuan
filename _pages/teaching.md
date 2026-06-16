@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 ## Instructor at Monash University
-  - ETC3420 (Semester 2, 2025) - Applied Insurance Methods
+  - ETC3420 (Semester 2, 2025-2026) - Applied Insurance Methods
 
-  - ETC2430 (Semester 1, 2025) - Actuarial cash flow modelling
+  - ETC2430 (Semester 1, 2025-2026) - Actuarial cash flow modelling
 
 ## Instructor at University of Waterloo
   - STAT  230 (Fall 2023) - Probability
