@@ -7,7 +7,9 @@ author_profile: true
 
 ## Manuscripts
 
-- Han, X.,  **Lin, L.**, and Mengshi Zhao (2025). Empirical estimator of diversification quotient. *arXiv*: 2506.20385.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2506.20385)
+- Chen, Y., **Lin, L.**, and Wang, R. (2026). Universal Value-at-Risk superadditivity. *arXiv*: 2606.22884.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2606.22884)
+
+- Han, X.,  **Lin, L.**, and Zhao, M. (2025). Empirical estimator of diversification quotient. *arXiv*: 2506.20385.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2506.20385)
 
 - Lauzier, J., **Lin, L.**, Wakker, P. and  Wang, R. (2025). Optimal risk sharing, equilibria, and welfare with empirically realistic risk attitudes. *arXiv*:22401.03328.[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2401.03328)
 
@@ -29,8 +31,6 @@ author_profile: true
   
 - **Lin, L.**, Liu, F. and Liu, J. and Yu, L. (2024). The optimal reinsurance strategy with price-competition between two reinsurers. Scandinavian Actuarial Journal, 2024(8): 1-28. [[<span style="color:green">Journal</span>]](https://www.tandfonline.com/doi/full/10.1080/03461238.2024.2389181)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2305.00509) 
 
-
-
 - Koike, T., **Lin, L.** and Wang, R. (2024). Joint mixability and notions of negative dependence. Mathematics of Operations Research. 49(4), 2786-2802.[[<span style="color:green">Journal</span>]](https://www.tandfonline.com/doi/full/10.1080/03461238.2024.2389181) [[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2204.11438)
 
 - Assa, H., **Lin, L.** and Wang, R. (2024). Calibrating distribution models from PELVE. North American Actuarial Journal, 28(2), 373-406. [[<span style="color:green">Journal</span>]](https://doi.org/10.1080/10920277.2023.2211648)[[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2204.08882.pdf)
@@ -39,7 +39,6 @@ author_profile: true
  [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.05.006) [[<span style="color:green">arXiv</span>]](https://arxiv.org/pdf/2302.11701.pdf)
 
 - Han, X.,  **Lin, L.**  and Wang, R. (2023). Diversification quotients based on VaR and ES. Insurance: Mathematics and Economics, 113: 185–197. [[<span style="color:green">Journal</span>]](https://doi.org/10.1016/j.insmatheco.2023.08.006)[[<span style="color:green">arXiv</span>]](https://arxiv.org/abs/2301.03517)
-
 
 - Yu, L., **Lin, L.**, Guan, G. and Liu, J. (2023). Time-consistent lifetime portfolio selection under smooth ambiguity. Mathematical Control and Related Fields, 13(3): 967-987.[[<span style="color:green">Journal</span>]](https://www.aimsciences.org/article/doi/10.3934/mcrf.2022023) 
 
